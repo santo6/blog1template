@@ -1,0 +1,62 @@
+body{
+font-family: 'Nunito Sans', sans-serif;
+background-color:;
+border:30px solid #E1E6ED;
+}
+.leftside{
+background-color:#F0F4F7;
+margin-top:px;
+height:auto;	
+}
+.nav{
+margin-left: 40px;
+padding-bottom: 17px;
+color: black;
+}
+.maincontant{
+background-color:#FFFFFF;
+padding-top:px;
+height:auto;
+margin-top:px;	
+}
+.nazim{
+width: 950px;
+height: auto;
+}	
+.subtitle{
+font-size:16px;
+line-height:20px;
+margin-top:20px;	
+}
+.titlehover{
+margin-top:80px;	
+margin-left:10px;
+}
+.titlehover:hover{
+color:#51B3E3;
+}
+.kakulist{
+width:15px;
+height:15px;
+float:left;
+margin-top:5px;
+padding-right:5px;	
+}
+.categori{
+color: #8a8a8a;
+font-size: 20px;
+}
+.categoris{
+color: #8a8a8a;
+font-size: 20px;
+margin-top:80px;	
+}
+.icon{
+margin-top:30px;
+padding-bottom:50px;	
+}
+.list{
+margin-bottom:25px;
+margin-left:20px;
+padding-bottom:30px;	
+}
